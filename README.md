@@ -2,7 +2,8 @@
 My ghost blog theme based on Vno.
 
 ## Overview
-Please visit my blog [melochale.com](http://melochale.com)to review the theme demo.
+Please visit my blog [melochale.com](http://melochale.com) to review the theme demo.
+
 ## Licence
 
 Great thanks to [Dale Anthony](https://github.com/daleanthony) and his [Uno](https://github.com/daleanthony/uno). Vno is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember.
